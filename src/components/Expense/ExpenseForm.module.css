@@ -1,0 +1,11 @@
+.user_input input {
+  width: 100%;
+  height: 95%;
+  border-radius: 5px;
+}
+.user_input label {
+  width: 100%;
+  height: 95%;
+  font-size: large;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
